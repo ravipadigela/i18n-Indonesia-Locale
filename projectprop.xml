@@ -1,0 +1,44 @@
+<properties>
+    <attributes name="project.type" value="js"/>
+    <attributes name="appversionkey" value="1.0.0"/>
+    <attributes name="mwportkey" value="80"/>
+    <attributes name="sessionmanager" value="Http Session Manager"/>
+    <attributes name="andtargetsdkkey" value="4.0"/>
+    <attributes name="isNewAppWithRespectToAndroidPackageName" value="true"/>
+    <attributes name="mwaddrkey" value="10.10.30.28"/>
+    <attributes name="appversioncode" value="1"/>
+    <attributes name="wp10displayname" value="SampleLocale"/>
+    <attributes name="createdgaversion" value="7.2.0"/>
+    <attributes name="build" value="debug"/>
+    <attributes name="isDpScaleFactor" value="true"/>
+    <attributes name="apppackagekey" value="com.orgname.SampleLocale"/>
+    <attributes name="iosrespectimagesizecorrection" value="true"/>
+    <attributes name="referenceWidth" value="375"/>
+    <attributes name="win6xj2meonlysupported" value="false"/>
+    <attributes name="winmangotiletitlekey" value="SampleLocale"/>
+    <attributes name="iphonebundleidentifierkey" value="com.kony.SampleLocale"/>
+    <attributes name="win8displaynamekey" value="SampleLocale"/>
+    <attributes name="studiovizproject" value="true"/>
+    <attributes name="android_allowselfsignedcertificates" value="None"/>
+    <attributes name="appidkey" value="SampleLocale"/>
+    <attributes name="currentgaversion" value="7.2.1.GA_v201612132236"/>
+    <attributes name="mwhttpsportkey" value="443"/>
+    <attributes name="ioscheckboxcorrection" value="true"/>
+    <attributes name="iostextboxpaddingcorrection" value="true"/>
+    <attributes name="vendornamekey" value="KonyLabs"/>
+    <attributes name="iphonebundleversionkey" value="1.0"/>
+    <attributes name="appnamekey" value="SampleLocale"/>
+    <attributes name="iospopuptransitioncorrection" value="true"/>
+    <attributes name="marginsincludedinwidgetcontainerweight" value="true"/>
+    <attributes name="APPLICATION_THEME" value="default"/>
+    <attributes name="SELECTED_THEME" value="default"/>
+    <attributes name="Server side mobile web" value="false"/>
+    <attributes name="androidenablejsbindings" value="false"/>
+    <attributes name="cloud_url" value="http://wklxkonyappts06.uk.ri.ad:8080"/>
+    <attributes name="cloud_env_name" value="KonyAccount-LocalDevEnv"/>
+    <attributes name="cloud_env_GUID" value="d78e074e-dd03-43a1-90ae-803c879896ca"/>
+    <attributes name="cloud_account_id" value="100000002"/>
+    <attributes name="cloud_account_guid" value="326f4bd0-f37a-4908-a473-ff722c35af95"/>
+    <attributes name="wp8packagepublisheridkey" value="dd47677d-1c9c-4da9-a22a-035adba37b5d"/>
+    <attributes name="winmobileguidkey" value="92d8665a-4664-473b-a7f8-4e9d864f4ac1"/>
+</properties>

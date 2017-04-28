@@ -1,0 +1,1 @@
+var i18nObject = {"a":"locale AU","b":"locale AU"}

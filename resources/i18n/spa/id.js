@@ -1,0 +1,1 @@
+var i18nObject = {"a":"Menghitung","b":"Pilih tindakan sub-kategori"}

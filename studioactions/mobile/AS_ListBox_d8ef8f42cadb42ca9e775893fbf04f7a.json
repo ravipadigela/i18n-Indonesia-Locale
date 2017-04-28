@@ -1,0 +1,18 @@
+{
+    "AS_ListBox_d8ef8f42cadb42ca9e775893fbf04f7a": {
+        "id": "AS_ListBox_d8ef8f42cadb42ca9e775893fbf04f7a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmdropdown",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c06f9f109deb4fc39e4858f06d014fe7"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

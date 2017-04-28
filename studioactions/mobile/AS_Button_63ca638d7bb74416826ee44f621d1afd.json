@@ -1,0 +1,27 @@
+{
+    "AS_Button_63ca638d7bb74416826ee44f621d1afd": {
+        "id": "AS_Button_63ca638d7bb74416826ee44f621d1afd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmdropdown",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c06f9f109deb4fc39e4858f06d014fe7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___1447cda2effe42c3bede611ff9e7c13e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClickLocaleChange",
+            "display": "onClickLocaleChange",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}
